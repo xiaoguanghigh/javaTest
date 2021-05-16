@@ -12,6 +12,7 @@ public class DemoApplication {
         System.out.println("提交了些代码 啊啊啊啊");
         System.out.println("xiaoguangxiaoguangxiaoguang");
         System.out.println("1111111");
+        System.out.println("9999999999999999999999999999");
     }
 
 }
