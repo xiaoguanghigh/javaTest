@@ -9,7 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("haode a ");
-        System.out.println("提交了些代码 ");
+        System.out.println("提交了些代码 啊啊啊啊");
     }
 
 }
