@@ -13,6 +13,7 @@ public class DemoApplication {
         System.out.println("xiaoguangxiaoguangxiaoguang");
         System.out.println("1111111");
         System.out.println("9999999999999999999999999999");
+        System.out.println("000000000000000000000");
     }
 
 }
